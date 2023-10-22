@@ -8,7 +8,7 @@ The Model was trained with Tabular Weather Data and with the `KNeighborsClassifi
 
 ## Check-it out the App Deployed in the Streamlit Services
 
-Weather Predictor App Deployed at: https://iris-flower.streamlit.app/
+Weather Predictor App Deployed at: https://weather-predictor.streamlit.app/
 
 ## Run it Locally
 
